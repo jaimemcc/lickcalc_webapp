@@ -1,7 +1,11 @@
 
 # lick-calc-app
 
-A simple app for performing analysis of lick microstructure in experiments of rodent ingestive behaviour.
+## IMPORTANT: As of 27 Oct 2025, this application has moved to https://github.com/uit-no/lickcalc
+
+## All further development and updates will take place at the new repo.
+
+lickcalc is a simple app for performing analysis of lick microstructure in experiments of rodent ingestive behaviour.
 
 
 ## Installation
